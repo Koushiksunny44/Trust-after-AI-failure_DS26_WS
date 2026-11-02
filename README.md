@@ -1,4 +1,4 @@
-PROJECT 7 — TRUST AFTER AI FAILURE
+PROJECT— TRUST AFTER AI FAILURE
 Kaggle notebook starter package
 
 Files:
