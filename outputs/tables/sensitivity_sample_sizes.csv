@@ -1,0 +1,8 @@
+scenario,measure,n_records,n_round_observations,records_with_four_observations
+published_export_available,published_export,412,1624,388
+published_masked_available,published_masked,412,1606,370
+derived_available,recalculated,412,1606,370
+published_masked_complete,published_masked,370,1480,370
+derived_complete,recalculated,370,1480,370
+derived_duplicate_excluded,recalculated,411,1602,369
+derived_gap_at_least_2,recalculated,412,1463,252

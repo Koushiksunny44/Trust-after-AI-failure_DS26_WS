@@ -1,0 +1,51 @@
+column,storage_type,meaning,role,verification_status,uncertainty
+Condition,str,Experimental group code,Grouping,PARTIALLY VERIFIED,0/1 label mapping unavailable
+Q1_1,str,"Gender; documentation: 1 male, 2 female",Descriptive only,VERIFIED,Limited recorded categories
+Q1_2,str,Age category,Descriptive only,VERIFIED,"Categorical, not exact age"
+Q1_3,str,"Education, inferred from Table 1 counts",Descriptive only,PARTIALLY VERIFIED,Numeric category codebook absent
+Q1_4,str,"AI-related job; documentation: 1 yes, 2 no",Descriptive only,VERIFIED,
+Q2_1,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_2,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_3,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_4,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_5,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_6,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_7,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_8,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_9,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_10,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_11,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_12,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_13,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_14,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_15,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_16,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_17,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+Q2_18,str,AI-literacy response family,Raw-item descriptions,PARTIALLY VERIFIED,Individual item mapping and composite scoring unresolved
+R1_I,str,Initial age estimate,WoA input,VERIFIED,No stimulus identifier or true-age field
+R1_A,str,AI age prediction (not ground truth),WoA input,VERIFIED,No stimulus identifier or true-age field
+R1_F,str,Final age judgment,WoA input,VERIFIED,No stimulus identifier or true-age field
+Q4_1,str,Perceived-interpretability response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and published descriptives unresolved"
+Q4_2,str,Perceived-interpretability response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and published descriptives unresolved"
+Q4_3,str,Perceived-interpretability response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and published descriptives unresolved"
+R2_I,str,Initial age estimate,WoA input,VERIFIED,No stimulus identifier or true-age field
+R2_A,str,AI age prediction (not ground truth),WoA input,VERIFIED,No stimulus identifier or true-age field
+R2_F,str,Final age judgment,WoA input,VERIFIED,No stimulus identifier or true-age field
+R3_I,str,Initial age estimate,WoA input,VERIFIED,No stimulus identifier or true-age field
+R3_A,str,AI age prediction (not ground truth),WoA input,VERIFIED,No stimulus identifier or true-age field
+R3_F,str,Final age judgment,WoA input,VERIFIED,No stimulus identifier or true-age field
+Q6_1,str,Perceived-trust response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and PT5 export status unresolved"
+Q6_2,str,Perceived-trust response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and PT5 export status unresolved"
+Q6_3,str,Perceived-trust response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and PT5 export status unresolved"
+Q6_4,str,Perceived-trust response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and PT5 export status unresolved"
+Q6_5,str,Perceived-trust response family,Raw-item descriptions,PARTIALLY VERIFIED,"Mapping, timing and PT5 export status unresolved"
+R4_I,str,Initial age estimate,WoA input,VERIFIED,No stimulus identifier or true-age field
+R4_A,str,AI age prediction (not ground truth),WoA input,VERIFIED,No stimulus identifier or true-age field
+R4_F,str,Final age judgment,WoA input,VERIFIED,No stimulus identifier or true-age field
+WoA_R1,str,Exported WoA value,Sensitivity comparison,PARTIALLY VERIFIED,"Ratio errors, zeros and R4 discrepancy"
+WoA_R2,str,Exported WoA value,Sensitivity comparison,PARTIALLY VERIFIED,"Ratio errors, zeros and R4 discrepancy"
+WoA_R3,str,Exported WoA value,Sensitivity comparison,PARTIALLY VERIFIED,"Ratio errors, zeros and R4 discrepancy"
+WoA_R4,str,Exported WoA value,Sensitivity comparison,PARTIALLY VERIFIED,"Ratio errors, zeros and R4 discrepancy"
+Unnamed: 47,str,Empty export column if validated empty,No analytical role,VERIFIED,
+Unnamed: 48,str,Empty export column if validated empty,No analytical role,VERIFIED,
+WoA_R1.1,str,Chinese free-text feedback,Excluded from numeric analysis,VERIFIED,Misleading heading; nonrandom availability

@@ -1,0 +1,6 @@
+analysis,status,reason
+RQ3 trust association,BLOCKED,"CSV-item map, timing, response coding and PT5 export status unresolved"
+RQ4 literacy/interpretability moderation,BLOCKED,Verified composite scoring and item mapping unavailable
+Treatment-labelled interpretation,BLOCKED,Numeric condition mapping unavailable
+Appropriate reliance/accuracy,BLOCKED,Complete round-stimulus true ages unavailable
+Catalogue alignment,REQUIRES PROFESSOR APPROVAL,Secondary reanalysis replaces the three-intervention experiment

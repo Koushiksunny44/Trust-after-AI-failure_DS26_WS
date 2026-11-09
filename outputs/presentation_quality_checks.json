@@ -1,0 +1,363 @@
+{
+  "all_checks_passed": true,
+  "checks": [
+    {
+      "check": "Analytical syntax in code cell 2",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 4",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 6",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 8",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 10",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 12",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 14",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 16",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 18",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 20",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 23",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 25",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Analytical syntax in code cell 26",
+      "passed": true,
+      "evidence": "Non-text syntax, numeric constants, expressions and control flow unchanged; only approved presentation/path strings differ."
+    },
+    {
+      "check": "Research questions preserved",
+      "passed": true,
+      "evidence": "All four question statements and their gates are identical."
+    },
+    {
+      "check": "Table preservation: blocked_analysis_register.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: exact_duplicate_records.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: feedback_availability.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: leave_one_record_out_influence.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: model_diagnostics.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: numeric_summary.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: pair_complete_welch_contrasts.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: primary_cell_mean_estimates.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: primary_planned_contrasts.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: random_intercept_sensitivity.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: raw_item_response_frequencies.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: raw_missingness_and_types.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: record_bootstrap_and_medians.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: record_level_analytical_copy.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: round_level_analytical_data.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: secondary_omnibus_interaction.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: sensitivity_contrasts.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: sensitivity_sample_sizes.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: variable_dictionary.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: within_code_round_contrasts.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: woa_audit_by_condition_round.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: woa_descriptives.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "Table preservation: woa_discrepancy_and_undefined_records.csv",
+      "passed": true,
+      "evidence": "Byte-for-byte equality with preceding executed output."
+    },
+    {
+      "check": "PNG preservation: 01_woa_distributions.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 02_reliance_trajectories.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 03_published_vs_derived.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 04_missingness_and_r4.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 05_judgment_inputs.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 06_model_diagnostics.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 07_raw_questionnaire_responses.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PNG preservation: 08_sensitivity_contrasts.png",
+      "passed": true,
+      "evidence": "Byte-for-byte equality, including all labels and plotted values."
+    },
+    {
+      "check": "PDF drawing preservation: 01_woa_distributions.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 02_reliance_trajectories.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 03_published_vs_derived.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 04_missingness_and_r4.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 05_judgment_inputs.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 06_model_diagnostics.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 07_raw_questionnaire_responses.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "PDF drawing preservation: 08_sensitivity_contrasts.pdf",
+      "passed": true,
+      "evidence": "Uncompressed page drawing streams are identical; document generation timestamps may differ."
+    },
+    {
+      "check": "Alternative-model diagnostics preserved",
+      "passed": true,
+      "evidence": "Convergence, covariance estimates and warning list identical."
+    },
+    {
+      "check": "Original CSV preserved",
+      "passed": true,
+      "evidence": "All three empirical source copies have SHA256 0ffa5341b5dec771d2e11169ff3bceb4c43306a83677f32d2f81d3a997ef696d"
+    },
+    {
+      "check": "Dependencies preserved",
+      "passed": true,
+      "evidence": "Tested dependency versions unchanged."
+    },
+    {
+      "check": "Configuration preserved: seed",
+      "passed": true,
+      "evidence": "20261109"
+    },
+    {
+      "check": "Configuration preserved: bootstrap_replicates",
+      "passed": true,
+      "evidence": "4000"
+    },
+    {
+      "check": "Configuration preserved: ratio_tolerance",
+      "passed": true,
+      "evidence": "1e-07"
+    },
+    {
+      "check": "Configuration preserved: small_gap_sensitivity_years",
+      "passed": true,
+      "evidence": "2"
+    },
+    {
+      "check": "Configuration preserved: source_rows",
+      "passed": true,
+      "evidence": "412"
+    },
+    {
+      "check": "Configuration preserved: source_columns",
+      "passed": true,
+      "evidence": "50"
+    },
+    {
+      "check": "Configuration preserved: primary_record_clusters",
+      "passed": true,
+      "evidence": "412"
+    },
+    {
+      "check": "Configuration preserved: primary_round_observations",
+      "passed": true,
+      "evidence": "1606"
+    },
+    {
+      "check": "Configuration preserved: complete_case_records",
+      "passed": true,
+      "evidence": "370"
+    },
+    {
+      "check": "Configuration preserved: packages",
+      "passed": true,
+      "evidence": "{'numpy': '2.5.4', 'pandas': '3.1.1', 'matplotlib': '3.10.8', 'scipy': '1.18.1', 'statsmodels': '0.15.0', 'nbformat': '5.11.1', 'nbclient': '0.11.0', 'ipykernel': '7.4.0'}"
+    },
+    {
+      "check": "Complete fresh-process execution",
+      "passed": true,
+      "evidence": "All 13 code cells completed in sequence; no notebook error outputs. Execution used a fresh in-process IPython session."
+    },
+    {
+      "check": "Executed notebook checksum",
+      "passed": true,
+      "evidence": "Execution manifest identifies the exact delivered notebook bytes."
+    },
+    {
+      "check": "Notebook title metadata",
+      "passed": true,
+      "evidence": "Full requested project title present."
+    },
+    {
+      "check": "Internal development-label scan",
+      "passed": true,
+      "evidence": "No obsolete development label or filename found in deliverable names, source, documentation, metadata, outputs or manifests. Generic scientific uses of stage were not mechanically replaced."
+    },
+    {
+      "check": "Required project files",
+      "passed": true,
+      "evidence": "Notebook, reports, source CSV, dependency record, execution and packaging helpers all present."
+    }
+  ],
+  "execution_method": "In-process IPython; host denies TCP and Unix-domain kernel sockets",
+  "table_count": 23,
+  "png_count": 8
+}
